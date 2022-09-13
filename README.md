@@ -38,30 +38,31 @@ Here are some ideas to get you started:
   <!-- [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49)](https://solved.ac/haramel49) -->
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
 
-  ## 💻 Tool
-  <div>
-      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
-  </div>
-
-  ## 🔥 Tech Stack
-  <div>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=Ubuntu&logoColor=white">
-      <img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/C++/C-00599C?style= flat_square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
-      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
-  </div>
-  <div>
-      <img src="https://img.shields.io/badge/MsSql-003B57?style=flat_square&logo=SQLite&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style= flat_square&logo=Docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style= flat_square&logo=Jenkins&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black">
-      <img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black">
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black">
+  <div align="left">
+    ## 💻 Tool
+    <div>
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
+    </div>
+    ## 🔥 Tech Stack
+    <div>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=Ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/C++/C-00599C?style= flat_square&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
+        <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/MsSql-003B57?style=flat_square&logo=SQLite&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style= flat_square&logo=Docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style= flat_square&logo=Jenkins&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black">
+        <img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black">
+    </div>
   </div>
 </div>
 
