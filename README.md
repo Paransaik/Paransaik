@@ -39,14 +39,15 @@ Here are some ideas to get you started:
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
 
   <div align="left">
-    ## 💻 Tool
+      <strong> 💻 Tool</strong>
     <div>
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
     </div>
-    ## 🔥 Tech Stack
+      </br>
+      <strong> 🔥 Tech Stack</strong>
     <div>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat_square&logo=Ubuntu&logoColor=white">
