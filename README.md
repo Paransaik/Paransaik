@@ -1,18 +1,3 @@
-<!-- 
-**Paransaik/Paransaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-<div>
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
-</div>
--->
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParansaik&count_bg=%2386A1FF&title_bg=%23276AFF&icon=linux.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
@@ -20,24 +5,20 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 2022.08.22.~ing: Osstem Implant Inc.
-    - 클라우드 Web App(Web Full Stack) 구축
+    - 국내 치과 60%의 시장 점유율을 가진 응용프로그램 자동 배포 구축
+    - 대용량 의료 이미지 수동/자동 백업 시스템 개발
     - C#/C++ 자사 의료 영상 응용 프로그램 유지보수
+    - 클라우드 Web App(Web Full Stack) 구축
 - 🌱 2022.01.05.~2022.08.19.: SSAFY 삼성 청년 SW 아카데미, 서울(임베디드→자바)
 - 🤔 2021.07.02.~2021.12.01.: 경북형 SW OpenBank 구축 사업
 - ⚡ 2021.04.19.~2021.10.20.: KSA 혁신 성장 청년 인재 집중 양성
 
-<!-- - 🔭 I’m currently working on Web & Algorithm
-- 🌱 I’m currently learning Spring
-- 🤔 I’m looking for help with MVC
-- 💬 Ask me about ...
-- 📫 How to reach me: Taeyeong.jeong419@gmail.com
-- ⚡ Fun fact: So, you're a developer? That means you copy code from stack overflow right? -->
+<!-- ✨💬📫⚡ -->
 
 ---
 
 <div align="center">
 
-  <!-- [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49)](https://solved.ac/haramel49) -->
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
 
   <div align="left">
@@ -47,8 +28,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/WebStrom-000000?style=flat_square&logo=WebStorm&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
-    </div>
-    <div>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
