@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 2022.08.22.~ing: Osstem Implant Inc.
-    - 국내 치과 60%의 시장 점유율을 가진 응용프로그램 자동 배포 구축
+    - Jenkins Declarative Pipeline를 사용한 응용프로그램 배포
     - 대용량 의료 이미지 수동/자동 백업 시스템 개발
     - C#/C++ 자사 의료 영상 응용 프로그램 유지보수
     - 클라우드 Web App(Web Full Stack) 구축
