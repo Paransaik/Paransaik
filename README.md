@@ -5,13 +5,16 @@
 ### Hi there 👋
 
 - 🔭 2022.08.22.~ing: Osstem Implant Inc.
-    - Jenkins Declarative Pipeline를 사용한 응용프로그램 배포
-    - 대용량 의료 이미지 수동/자동 백업 시스템 개발
-    - C#/C++ 자사 의료 영상 응용 프로그램 유지보수
-    - 클라우드 Web App(Web Full Stack) 구축
+    - _**Jenkins       : Declarative Pipeline를 사용한 응용프로그램 배포**_
+    - _**Winform/C#    : 대용량 의료 이미지 수동/자동 백업 프로그램 개발**_
+    - _**QT/C++        : 자사 의료 영상 프로그램 백업 프로그램 유지보수**_
+    - _**WPF/C#        : 자사 의료 영상 Server API 유지보수**_
+    - Vue/Spring    : 클라우드 Web App(Web Full Stack) 구축
 - 🌱 2022.01.05.~2022.08.19.: SSAFY 삼성 청년 SW 아카데미, 서울(임베디드→자바)
 - 🤔 2021.07.02.~2021.12.01.: 경북형 SW OpenBank 구축 사업
 - ⚡ 2021.04.19.~2021.10.20.: KSA 혁신 성장 청년 인재 집중 양성
+
+_**※ 현재 진행 중**_
 
 <!-- ✨💬📫⚡ -->
 
