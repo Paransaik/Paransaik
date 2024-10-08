@@ -3,18 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
 
 ### Hi there 👋
-
-- 🔭 2022.08.22.~ing: Osstem Implant Inc.
-    - _**Jenkins       : Declarative Pipeline를 사용한 응용프로그램 배포**_
-    - _**Winform/C#    : 대용량 의료 이미지 수동/자동 백업 프로그램 개발**_
-    - _**QT/C++        : 자사 의료 영상 프로그램 백업 프로그램 유지보수**_
-    - _**WPF/C#        : 자사 의료 영상 Server API 유지보수**_
-    - Vue/Spring    : 클라우드 Web App(Web Full Stack) 구축
-- 🌱 2022.01.05.~2022.08.19.: SSAFY 삼성 청년 SW 아카데미, 서울(임베디드→자바)
+- ❤️ 2022.08.22.~2024.10.01.: PMS 연구소, Osstem Implant Inc.
+    - 기공소 업무 분석 및 Web ERD, Architecture 설계
+- 🔭 2022.08.22.~2024.10.01.: Software 연구소, Osstem Implant Inc.
+    - Jenkins, Declarative Pipeline를 사용한 응용프로그램 배포
+    - C#, 의료 이미지 수동/자동 백업 프로그램 개발
+    - C#, 자사 의료 영상 프로그램 유지보수
+<!-- - 🌱 2022.01.05.~2022.08.19.: SSAFY 삼성 청년 SW 아카데미, 서울(임베디드→자바)
 - 🤔 2021.07.02.~2021.12.01.: 경북형 SW OpenBank 구축 사업
 - ⚡ 2021.04.19.~2021.10.20.: KSA 혁신 성장 청년 인재 집중 양성
-
-_**※ 현재 진행 중**_
+-->
 
 <!-- ✨💬📫⚡ -->
 
@@ -28,8 +26,8 @@ _**※ 현재 진행 중**_
     <strong>💻 IDE</strong>
     <div>
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
-      <img src="https://img.shields.io/badge/WebStrom-000000?style=flat_square&logo=WebStorm&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/WebStrom-000000?style=flat_square&logo=WebStorm&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white"> -->
       <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
     </div>
     <strong>⛏ Tool</strong>
@@ -38,29 +36,29 @@ _**※ 현재 진행 중**_
       <img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat_square&logo=Slack&logoColor=white">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat_square&logo=Figma&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat_square&logo=Figma&logoColor=white"> -->
     </div>
     <strong>🔥Stack</strong>
     <div>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
-      <img src="https://img.shields.io/badge/C/C++/C%23-00599C?style= flat_square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/.Net-512BD4?style= flat_square&logo=.Net&logoColor=white">
-      <img src="https://img.shields.io/badge/Qt-41CD52?style= flat_square&logo=Qt&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/C/C++/C%23-00599C?style= flat_square&logo=C&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/.Net-512BD4?style= flat_square&logo=.Net&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/Qt-41CD52?style= flat_square&logo=Qt&logoColor=white"> -->
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
       <img src="https://img.shields.io/badge/Persistencet-59666C?style=flat_square&logo=Hibernate&logoColor=white">
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/MsSql-003B57?style=flat_square&logo=SQLite&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/MsSql-003B57?style=flat_square&logo=SQLite&logoColor=white"> -->
       <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style= flat_square&logo=AmazonAWS&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style= flat_square&logo=Docker&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Docker-2496ED?style= flat_square&logo=Docker&logoColor=white"> -->
       <img src="https://img.shields.io/badge/Jenkins-D24939?style= flat_square&logo=Jenkins&logoColor=white">  
-      <img src="https://img.shields.io/badge/Graphql-E10098?style= flat_square&logo=Graphql&logoColor=white">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat_square&logo=Vue.js&logoColor=black">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black">
-      <img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black">
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat_square&logo=Node.js&logoColor=black">
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat_square&logo=Nginx&logoColor=black">
+<!--       <img src="https://img.shields.io/badge/Graphql-E10098?style= flat_square&logo=Graphql&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat_square&logo=Vue.js&logoColor=black"> -->
+<!--       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat_square&logo=Html5&logoColor=black"> -->
+<!--       <img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black"> -->
+<!--       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat_square&logo=Javascript&logoColor=black"> -->
+<!--       <img src="https://img.shields.io/badge/Node.js-339933?style=flat_square&logo=Node.js&logoColor=black"> -->
+<!--       <img src="https://img.shields.io/badge/Nginx-009639?style=flat_square&logo=Nginx&logoColor=black"> -->
     </div>
   </div>
 </div>
