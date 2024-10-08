@@ -3,13 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
 
 ### Hi there 👋
-- ❤️ 2022.08.22.~2024.10.01.: PMS 연구소, Osstem Implant Inc.
-    - 기공소 업무 분석 및 Web ERD, Architecture 설계
+- ❤️ 2024.10.01.~ing: PMS 연구소, Osstem Implant Inc.
+    - 기공소 Web Cloud Projecct
+        - 기공소 업무 분석 및 ERD, Architecture 설계
 - 🔭 2022.08.22.~2024.10.01.: Software 연구소, Osstem Implant Inc.
     - Jenkins, Declarative Pipeline를 사용한 응용프로그램 배포
     - C#, 의료 이미지 수동/자동 백업 프로그램 개발
     - C#, 자사 의료 영상 프로그램 유지보수
-<!-- - 🌱 2022.01.05.~2022.08.19.: SSAFY 삼성 청년 SW 아카데미, 서울(임베디드→자바)
+- 🌱 2022.01.05.~2022.08.19.: SSAFY, 삼성 청년 SW 아카데미
+
+<!-- 
 - 🤔 2021.07.02.~2021.12.01.: 경북형 SW OpenBank 구축 사업
 - ⚡ 2021.04.19.~2021.10.20.: KSA 혁신 성장 청년 인재 집중 양성
 -->
@@ -36,6 +39,7 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat_square&logo=Slack&logoColor=white">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat_square&logo=Obsidian&logoColor=white">
 <!--       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat_square&logo=Figma&logoColor=white"> -->
     </div>
     <strong>🔥Stack</strong>
