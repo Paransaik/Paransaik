@@ -6,6 +6,7 @@
 - ❤️ 2024.10.01.~ing: PMS 연구소, Osstem Implant Inc.
     - 기공소 Web Cloud Projecct
         - 기공소 업무 분석 및 ERD, Architecture 설계
+        - Java/Spring/JPA 해외향 플랫폼 서비스 백 오피스 및 코어 모듈 설계, 개발
 - 🔭 2022.08.22.~2024.10.01.: Software 연구소, Osstem Implant Inc.
     - Jenkins, Declarative Pipeline를 사용한 응용프로그램 배포
     - C#, 의료 이미지 수동/자동 백업 프로그램 개발
