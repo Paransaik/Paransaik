@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
 
+<img width="100%" src="https://github.com/user-attachments/assets/b3202cba-37dc-46ed-af0f-2352f219f906" />
+  
+![KakaoTalk_20250318_213602145]()
+
 ### Hi there 👋
 - ❤️ 2024.10.01.~ing: PMS 연구소, Osstem Implant Inc.
     - 기공소 Web Cloud Projecct
