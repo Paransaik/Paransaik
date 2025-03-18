@@ -1,6 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParansaik&count_bg=%2386A1FF&title_bg=%23276AFF&icon=linux.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60) -->
 
 <img width="100%" src="https://github.com/user-attachments/assets/b3202cba-37dc-46ed-af0f-2352f219f906" />
 
@@ -87,6 +85,8 @@
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style= flat_square&logo=Kubernetes&logoColor=white">
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParansaik&count_bg=%2386A1FF&title_bg=%23276AFF&icon=linux.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- 
 <img width=350px height=165px src="https://github-readme-stats.vercel.app/api?username=Paransaik&show_icons=true&theme=apprentice"/>
