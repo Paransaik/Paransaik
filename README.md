@@ -18,7 +18,7 @@
   <div align="left">
     <strong>💻 IDE</strong>
     <div>
-      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat_square&logo=IntelliJ IDEA&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat_square&logo=IntelliJ%20IDEA&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
     </div>
     <strong>⛏ Tool</strong>
@@ -36,8 +36,8 @@
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
       <img src="https://img.shields.io/badge/Persistencet-59666C?style=flat_square&logo=Hibernate&logoColor=white">
       <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style= flat_square&logo=AmazonAWS&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style= flat_square&logo=Jenkins&logoColor=white">  
+      <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat_square&logo=Jenkins&logoColor=white">  
     </div>
   </div>
 </div>
@@ -87,5 +87,4 @@
  -->
 ----
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParansaik&count_bg=%2386A1FF&title_bg=%23276AFF&icon=linux.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FParansaik?color=blue&label=visits&size=small)](https://myhits.vercel.app)
