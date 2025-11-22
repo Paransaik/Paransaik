@@ -16,10 +16,15 @@
 <div align="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
   <div align="left">
+    <strong>🤖 AI</strong>
+    <div>
+      <img src="https://img.shields.io/badge/Claude%20Code%20Max-D97757?style=flat_square&logo=claude&logoColor=white">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat_square&logo=Cursor&logoColor=white">
+    </div>
     <strong>💻 IDE</strong>
     <div>
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat_square&logo=IntelliJ%20IDEA&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio%20Code&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
     </div>
     <strong>⛏ Tool</strong>
     <div>
