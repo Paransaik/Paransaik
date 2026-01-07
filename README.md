@@ -1,15 +1,24 @@
 <img width="100%" src="https://github.com/user-attachments/assets/b3202cba-37dc-46ed-af0f-2352f219f906" />
 
+<!-- 🐓 -->
 ### Hi there 👋
-- ❤️ 2024.10.01.~ing: PMS 연구소, Osstem Implant Inc.
-    - 기공소 Web Cloud Projecct
-        - 기공소 업무 분석 및 ERD, Architecture 설계
-        - Java/Spring/JPA 해외향 플랫폼 서비스 백 오피스 및 코어 모듈 설계, 개발
-- 🔭 2022.08.22.~2024.10.01.: Software 연구소, Osstem Implant Inc.
-    - Jenkins, Declarative Pipeline를 사용한 응용프로그램 배포
-    - C#, 의료 이미지 수동/자동 백업 프로그램 개발
-    - C#, 자사 의료 영상 프로그램 유지보수
-- 🌱 2022.01.05.~2022.08.19.: SSAFY, 삼성 청년 SW 아카데미
+#### Osstem Implant Inc.
+- 🐔 _2025.11.01. ~ (재직 중): PMS연구소, PMS공통개발팀_
+    - Svelte(JS), Spring(Java), Mybatis, MSA, Jenkins
+    - 경영통계 대시보드·상세 페이지 개발
+    - MSA 기반 OW/GW 로그 처리 시스템 서버 개발
+- 🐥 _2024.10.01. ~ 2025.10.31.: PMS연구소, PMS웹개발팀_
+    - React(JS), Spring(Java)
+    - C/S 기반 치과 전자차트 RTF/ISF 웹 마이그레이션 POC 수행
+    - 해외향 플랫폼 백오피스 및 코어 모듈 개발
+    - 멀티 테넌시 구조 설계 및 구현
+    - RBAC(Role-Based Access Control) 기반 권한 관리 시스템 개발
+- 🐤 _2022.08.22.~2024.09.30.: Software연구소, 영상SW운영개발팀_
+    - WinForms(C#), WPF(C#), Jenkins
+    - Declarative Pipeline 기반 CI/CD 배포 구성
+    - 의료 이미지 수동/자동 백업 프로그램 개발
+    - 자사 의료 영상 프로그램 유지보수
+- 🐣 _2022.01.05.~2022.08.19.: SSAFY, 삼성청년SW아카데미_
 
 ---
 
