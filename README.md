@@ -57,12 +57,11 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat_square&logo=Jenkins&logoColor=white">
 
-</br></br>
+</br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
 
   </tr>
 </table>
-
 <!-- 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=header&text=Jeong%20Tae%20Yeong&fontSize=60)
