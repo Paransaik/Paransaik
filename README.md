@@ -1,60 +1,67 @@
+### HIDING IN YOUR WIFI 👋 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FParansaik?color=blue&label=visits&size=small)](https://myhits.vercel.app)
+
 <img width="100%" src="https://github.com/user-attachments/assets/b3202cba-37dc-46ed-af0f-2352f219f906" />
 
 <!-- 🐓 -->
-### Hi there 👋
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="55%" valign="top">
+
 #### Osstem Implant Inc.
+
 - 🐔 _2025.11.01. ~ (재직 중): PMS연구소, PMS공통개발팀_
-    - Svelte(JS), Spring(Java), Mybatis, MSA, Jenkins
-    - 경영통계 대시보드·상세 페이지 개발
-    - MSA 기반 OW/GW 로그 처리 시스템 서버 개발
+  - Svelte(JS), Spring(Java), Mybatis, MSA, Jenkins
+  - 경영통계 대시보드·상세 페이지 개발
+  - MSA 기반 OW/GW 로그 처리 시스템 서버 개발
+ 
 - 🐥 _2024.10.01. ~ 2025.10.31.: PMS연구소, PMS웹개발팀_
-    - React(JS), Spring(Java)
-    - C/S 기반 치과 전자차트 RTF/ISF 웹 마이그레이션 POC 수행
-    - 해외향 플랫폼 백오피스 및 코어 모듈 개발
-    - 멀티 테넌시 구조 설계 및 구현
-    - RBAC(Role-Based Access Control) 기반 권한 관리 시스템 개발
+  - React(JS), Spring(Java)
+  - C/S 기반 치과 전자차트 RTF/ISF 웹 마이그레이션 POC
+  - 해외향 플랫폼 백오피스 및 코어 모듈 개발
+  - 멀티 테넌시 구조 설계 및 구현
+  - RBAC 기반 권한 관리 시스템 개발
+ 
 - 🐤 _2022.08.22.~2024.09.30.: Software연구소, 영상SW운영개발팀_
-    - WinForms(C#), WPF(C#), Jenkins
-    - Declarative Pipeline 기반 CI/CD 배포 구성
-    - 의료 이미지 수동/자동 백업 프로그램 개발
-    - 자사 의료 영상 프로그램 유지보수
-- 🐣 _2022.01.05.~2022.08.19.: SSAFY, 삼성청년SW아카데미_
+  - WinForms(C#), WPF(C#), Jenkins
+  - Declarative Pipeline 기반 CI/CD
+  - 의료 이미지 백업 프로그램 개발
+  - 의료 영상 프로그램 유지보수
+    
+- 🐣 _2022.01.05.~2022.08.19.: SSAFY_
 
----
+    </td>
+    <td width="45%" valign="top">
+    
+### 🔧 Tech Stack
+**🤖 AI**  
+<img src="https://img.shields.io/badge/Claude%20Code%20Max-D97757?style=flat_square&logo=claude&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat_square&logo=Cursor&logoColor=white">
 
-<div align="center">
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
-  <div align="left">
-    <strong>🤖 AI</strong>
-    <div>
-      <img src="https://img.shields.io/badge/Claude%20Code%20Max-D97757?style=flat_square&logo=claude&logoColor=white">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat_square&logo=Cursor&logoColor=white">
-    </div>
-    <strong>💻 IDE</strong>
-    <div>
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat_square&logo=IntelliJ%20IDEA&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Code-007ACC.svg?&style=flat_square&logo=Visual%20Studio&logoColor=white">
-    </div>
-    <strong>⛏ Tool</strong>
-    <div>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat_square&logo=Slack&logoColor=white">
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
-      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat_square&logo=Obsidian&logoColor=white">
-    </div>
-    <strong>🔥Stack</strong>
-    <div>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
-      <img src="https://img.shields.io/badge/JAVA-007396?style=flat_square&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
-      <img src="https://img.shields.io/badge/Persistencet-59666C?style=flat_square&logo=Hibernate&logoColor=white">
-      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat_square&logo=Jenkins&logoColor=white">  
-    </div>
-  </div>
-</div>
+**💻 IDE**  
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat_square&logo=IntelliJ%20IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Code-007ACC?style=flat_square&logo=Visual%20Studio&logoColor=white">
+
+**⛏ Tool**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat_square&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat_square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat_square&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat_square&logo=Obsidian&logoColor=white">
+
+**🔥 Stack**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=flat_square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat_square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat_square&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat_square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat_square&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat_square&logo=Jenkins&logoColor=white">
+
+</br></br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haramel49" />
+
+  </tr>
+</table>
 
 <!-- 
 
@@ -99,6 +106,5 @@
 // language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paransaik&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
  -->
-----
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FParansaik?color=blue&label=visits&size=small)](https://myhits.vercel.app)
+
